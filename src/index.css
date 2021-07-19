@@ -1,0 +1,67 @@
+body {
+  background: linear-gradient(to right, #e8cbc0, #e8cbc0);
+}
+
+.proflieimage {
+  position: relative;
+  width: 90px;
+  height: 90px;
+  margin: 15px auto 0 auto;
+  display: block;
+  border-radius: 50%;
+  background: #d8d5d5;
+  font-size: 40px;
+  font-weight: 260;
+  text-align: center;
+}
+
+.profliename {
+  font-size: 15px;
+  font-weight: 800;
+  margin-top: 3px;
+  line-height: 20px;
+}
+
+.proflieusername {
+  font-size: 10px;
+  line-height: 20px;
+  margin-top: 3px;
+  color: #7c7878;
+  font-style: oblique;
+}
+
+.profliewebsite {
+  font-size: 10px;
+  line-height: 20px;
+  margin-top: 3px;
+}
+
+.proflieactions {
+  margin-top: 33px;
+}
+
+.proflieactions .profliebtn {
+  display: block;
+  width: 180px;
+  height: 35px;
+  margin: 0 auto 10px auto;
+  border-color: #248cfb;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: 100;
+  box-sizing: border-box;
+  color: #fffefe;
+  background-color: #248cfb;
+}
+
+.detail {
+  font-size: 13px;
+  line-height: 12px;
+  font-weight: 800;
+}
+
+.detail .ul {
+  margin: 0;
+  padding: 5;
+  line-height: 20px;
+}
