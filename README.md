@@ -1,26 +1,20 @@
-# Getting Started with React Demo
-
-
-## down load source into your local
+## Down load source into your local
 
 for example local folder name is react-demo
 
-## install and run
+## Install and run
 
 ### `npm install`
 
-enter the folder react-demo, run 'npm install' download the depends of this demo. 
-make sure your local was installed environment react run needs already.
-  for example node.js and npm: 
+Enter the folder react-demo, run 'npm install' download the depends of this demo. \
+Make sure your local was installed environment react run needs already.\
+  for example node.js and npm: \
   Node.js (https://nodejs.org/)
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the demo in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### the result like this:
 
