@@ -3,7 +3,9 @@
 
 ## down load source into your local
 
-for example local fload name is react-demo
+for example local folder name is react-demo
+
+## install and run
 
 ### `npm install`
 
